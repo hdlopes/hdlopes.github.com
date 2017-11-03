@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/hdlopes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hdlop.es
+  * I am hdlopes (https://keybase.io/hdlopes) on keybase.
+  * I have a public key with fingerprint 6FD5 C66B 8D23 D20A FC96  8BE0 3C73 1479 8ACD 11B2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012028376177dea860ea599134db5f3debb065eaf38fb9ae209b200ab31a0a339cb80a",
+      "fingerprint": "6fd5c66b8d23d20afc968be03c7314798acd11b2",
+      "host": "keybase.io",
+      "key_id": "3c7314798acd11b2",
+      "kid": "010194138ef5799eb8e791799a56ebe0bfbd11f30fd6951eba951c80fd99e8dee2220a",
+      "uid": "bbdef5e26aedad619ace9add94543019",
+      "username": "hdlopes"
+    },
+    "service": {
+      "hostname": "hdlop.es",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1509726884,
+  "expire_in": 157680000,
+  "prev": "3a752ca28960c6749cf78054db265cd33aa24866b32130495395fd5f76757be9",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNsAnicbVJ7UFRVGF/CR+KIyIBhjcLclDGG8D72vpBFm3FKNB0JisfALOfecy5c
+xN1l77IIDA4PCZBCCXHEEiqxh0RSaYmRCUNMylNZkSWKwWCmCKiAxnHQ6FwmZ/qj
+88c55/vm9/t9v/N9p2ONp8HLI0LzyznWs+5zj6626ixDwsMzDXmEZIU5RHgecRAt
+HSgDIs1hPqhCIpwgKZqkBYbnKJ6HCAgciQArihRjhBKrMBBJEsmxCCiMoEgiQDQp
+SjRJAomhAAkYRpQlgQREKKGollRkt9lViwPLcgpkZY6TBEgzkCaBIoucICGSkXmG
+MvKiAGRIURKNiWlWTWdgcxLQUJhqxTkcmJfs/Q/+sW+SEo0UIyCF5UURSQLiRQrf
+AMshXEhSJExQGFKBnMhSSAJ4lwUcYrAAEaJpesl31pKcJEEshGgOIAggR4lARiKA
+UDSyRgZX0oEaslvAIYTRaTDDakMakR9K4KRTlZHeV/0h/wWEYUQoYbNbHVbZmqFn
+HQ6bFq6zHDk2HZaNJPO/AmZJtUDcQsxwIrumWi1EOIWRskPVFSmWFHmaEwRjKIEO
+21Q7Mqs6guU5gcRLr4OcesMAz9IyoAWRI2WON4qywgski6dJc6wMGQYA2ijgyTA0
+xZBGkWVEFs9K4Tme5SWkP1RDmRYr1qaxT5CKNTU11QIcWXZE5Le3JS0zeHgZVix/
+Qv9bBq9VPo9/3Gjv2sWoDpPvUONU/I26mf68gkrf9/wCJ/ylhOyYxKAVW4YLXxa8
+OrV6U1v8jjjPvSnEhpsPunYX3KtZXhzLv5s3sDD+4FFvwaCp/Ad30m9+R/dz0WeK
+LxXmzKX/KBexFZPCx/uqNr3fsxgDQnjjll23PdbWTR6JzT3c0JNIBU0bB5bNhl0c
+fGtb7uVFbWNJgPvqJ+6d97pXfiMkFg31V76Y/faewWtjjnMVPob6vdkBB6IvddZE
+dTXvqt39Tn2Zr0pmdgS1O8uSWeJotD39963M7JevRza1z5Q5v5/6g+aa6tpG4oML
+X5hunv22b9h7bdT1uXPlKz2fuw33eU+M7qi978xJulj189UThxb+9H+m+I6hu9c8
+Zlq9MUSJHxocqbzRNz+3Kr3c9Xwc5TjRknorBaVEbQ7Ic0+xr/0S/PX4evPd0hDX
+p67zf330itZ6RBv+6nh1CxFUDa9dmE521z0qPf7q5s5t5TXhq6OePD8X8Z0ydqU1
+8oqtxltJOhWYd7bIdfrZgg3xNcUhHTOzvsH5ofmRHzZ4xhV4PvUZN2rq795Zvt62
+52RMSMSUMB876eWfUnEnYcDn1wMV/Y0XYEt6o8swvrXk7zfQ/frSdUpPclLZmpcC
+e1v3zz89csxj6m4D9+YXCz4P+26mXW8uzS06e/qDWpPm+mm7y32yyjLRdSpzU8mt
+iGL/1IHLTdvd/wD0OMfU
+=p6Wb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hdlopes
+
+==================================================================
